@@ -1,4 +1,4 @@
-package com.ding.drawCircleAndLine;
+﻿package com.ding.drawCircleAndLine;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -8,7 +8,7 @@ import android.view.View;
 
 /**
  * Created by dingli on 2015-7-1.
- * 画圆点
+ * 画圆点111
  */
 public class Circle extends View {
     private int color=getResources().getColor(R.color.red_ff3939),radius=0;
