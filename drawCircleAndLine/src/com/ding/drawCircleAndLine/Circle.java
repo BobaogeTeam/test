@@ -8,7 +8,7 @@ import android.view.View;
 
 /**
  * Created by dingli on 2015-7-1.
- * 画圆点111
+ * 画圆点111222
  */
 public class Circle extends View {
     private int color=getResources().getColor(R.color.red_ff3939),radius=0;
